@@ -2,6 +2,9 @@
 
 An end-to-end Machine Learning web application that recommends movies based on director style, cast, and atmospheric keywords. 
 
+## 📸 App Interface
+![Atmosferik Film Motoru Arayüzü](screenshot.png)
+
 ## Features
 * **Content-Based Filtering:** Uses NLP (TF-IDF) and Cosine Similarity to analyze movie overviews, genres, keywords, directors, and top cast.
 * **ETL Pipeline:** Custom Python script to extract, transform, and load raw JSON-formatted string data from CSVs into a relational SQLite database.
