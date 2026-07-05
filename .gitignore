@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+
+# Datasets (CSV files are too large for GitHub)
+*.csv
+
+# Database files
+*.db
+
+# Python Cache
+__pycache__/
+*.pyc
